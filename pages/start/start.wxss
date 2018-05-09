@@ -1,0 +1,6 @@
+.dot {
+  width: 18rpx;
+  height: 18rpx;
+  background-color: #E5E5E5;
+  border-radius: 50%;
+}

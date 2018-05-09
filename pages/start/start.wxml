@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <view animation="{{animation}}" class="dot"></view>
+</view>
+<button type="primary" bindtap="translate">旋转</button>
